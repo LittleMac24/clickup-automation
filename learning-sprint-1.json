@@ -1,0 +1,287 @@
+{
+    "space": "Learning Space",
+    "folder": "Sprints",
+    "list": "Sprint 1 (5/4 - 5/17)",
+    "tasks": [
+        {
+            "name": "TASK 1: Complete DataLemur SQL Tutorial \u2014 All 3 Tiers",
+            "description": "All ~33 DataLemur lessons finished (Beginner + Intermediate + Advanced). Every embedded exercise submitted with \"Correct\" result.",
+            "status": "to do",
+            "priority": 1,
+            "subtasks": [
+                {
+                    "name": "1.1 DataLemur Beginner: SELECT + WHERE + AND/OR/NOT + BETWEEN/IN (Lessons 1-4)",
+                    "description": "URL: https://datalemur.com/sql-tutorial/sql-select | Done When: All 4 exercises submitted with \"Correct\" | Assigned: Day 1, 50 min"
+                },
+                {
+                    "name": "1.2 DataLemur Beginner: LIKE + Filtering Review + ORDER BY + LIMIT (Lessons 5-8)",
+                    "description": "URL: https://datalemur.com/sql-tutorial/sql-like | Done When: All 4 exercises submitted with \"Correct\" | Assigned: Day 2, 50 min"
+                },
+                {
+                    "name": "1.3 DataLemur Beginner: Aggregate Functions + GROUP BY + HAVING + DISTINCT (Lessons 9-12)",
+                    "description": "URL: https://datalemur.com/sql-tutorial/sql-aggregate-functions | Done When: All 4 exercises submitted with \"Correct\" | Assigned: Day 3, 50 min"
+                },
+                {
+                    "name": "1.4 DataLemur Intermediate: Aggregate Advanced + Division + NULLs (Lessons 1-3)",
+                    "description": "URL: https://datalemur.com/sql-tutorial/intermediate-data-science-sql-intro | Done When: All 3 exercises submitted with \"Correct\" | Assigned: Day 4, 50 min"
+                },
+                {
+                    "name": "1.5 DataLemur Intermediate: JOINs + CASE WHEN + UNION (Lessons 4-6)",
+                    "description": "URL: https://datalemur.com/sql-tutorial/sql-joins-inner-outer-left-right | Done When: All 3 exercises submitted with \"Correct\" | Assigned: Day 5, 50 min"
+                },
+                {
+                    "name": "1.6 DataLemur Intermediate: String functions + Date functions + remaining (Lessons 7-9)",
+                    "description": "URL: https://datalemur.com/sql-tutorial | Done When: All 3 exercises submitted with \"Correct\" | Assigned: Day 6, 50 min"
+                },
+                {
+                    "name": "1.7 DataLemur Intermediate: Finish tier (Lessons 10-12)",
+                    "description": "URL: https://datalemur.com/sql-tutorial | Done When: All remaining intermediate exercises \"Correct.\" Tier complete. | Assigned: Day 7, 50 min"
+                },
+                {
+                    "name": "1.8 DataLemur Advanced: CTEs vs Subqueries + Window Functions intro (Lessons 1-2)",
+                    "description": "URL: https://datalemur.com/sql-tutorial/advanced-sql-tutorial-intro | Done When: Both exercises submitted with \"Correct\" | Assigned: Day 8, 50 min"
+                },
+                {
+                    "name": "1.9 DataLemur Advanced: ROW_NUMBER, RANK, DENSE_RANK + LAG/LEAD (Lessons 3-4)",
+                    "description": "URL: https://datalemur.com/sql-tutorial | Done When: Both exercises submitted with \"Correct\" | Assigned: Day 9, 50 min"
+                },
+                {
+                    "name": "1.10 DataLemur Advanced: Running totals + Frame specs + Recursive CTEs (Lessons 5-7)",
+                    "description": "URL: https://datalemur.com/sql-tutorial | Done When: All 3 exercises submitted with \"Correct\" | Assigned: Day 10, 50 min"
+                },
+                {
+                    "name": "1.11 DataLemur Advanced: Remaining lessons (Lessons 8-10)",
+                    "description": "URL: https://datalemur.com/sql-tutorial | Done When: All 3 exercises submitted with \"Correct\" | Assigned: Day 11, 50 min"
+                },
+                {
+                    "name": "1.12 DataLemur Advanced: Final lessons + Instacart case study (Lessons 11-12)",
+                    "description": "URL: https://datalemur.com/sql-tutorial | Done When: All advanced exercises complete. Full tutorial done. | Assigned: Day 12, 50 min"
+                }
+            ]
+        },
+        {
+            "name": "TASK 2: Complete 40+ Problems in LeetCode SQL50 Study Plan",
+            "description": "At least 40 out of 50 problems solved with green checkmark in LeetCode's SQL50 study plan tracker.",
+            "status": "to do",
+            "priority": 1,
+            "subtasks": [
+                {
+                    "name": "2.1 LeetCode SQL50: Solve problems 1-3 (Select section)",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ | Done When: 3 green checkmarks in SQL50 tracker | Assigned: Day 1, 70 min"
+                },
+                {
+                    "name": "2.2 LeetCode SQL50: Solve problems 4-7 (Select section continued)",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ | Done When: 4 green checkmarks | Assigned: Day 2, 70 min"
+                },
+                {
+                    "name": "2.3 LeetCode SQL50: Solve problems 8-11 (Aggregate/GROUP BY section)",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ | Done When: 4 green checkmarks | Assigned: Day 3, 70 min"
+                },
+                {
+                    "name": "2.4 LeetCode SQL50: Solve problems 12-14 (JOIN section)",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ | Done When: 3 green checkmarks | Assigned: Day 4, 70 min"
+                },
+                {
+                    "name": "2.5 LeetCode SQL50: Solve problems 15-17 (Subquery/advanced select)",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ | Done When: 3 green checkmarks | Assigned: Day 5, 70 min"
+                },
+                {
+                    "name": "2.6 LeetCode SQL50: Solve problems 18-20 (Sorting & grouping)",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ | Done When: 3 green checkmarks | Assigned: Day 6, 70 min"
+                },
+                {
+                    "name": "2.7 LeetCode SQL50: Solve problems 21-23 \u2014 target under 20 min each",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ | Done When: 3 green checkmarks. Time per problem recorded. | Assigned: Day 7, 70 min"
+                },
+                {
+                    "name": "2.8 LeetCode SQL50: Solve problems 24-26 (advanced section) + 1 DataLemur Medium",
+                    "description": "URL: https://leetcode.com/studyplan/top-sql-50/ and https://datalemur.com/questions?category=SQL&difficulty=Medium | Done When: 3 LC checkmarks + 1 DL \"Correct\" | Assigned: Day 8, 70 min"
+                },
+                {
+                    "name": "2.9 DataLemur: Solve 2 Medium SQL interview problems using window functions",
+                    "description": "URL: https://datalemur.com/questions?category=SQL&difficulty=Medium | Done When: 2 DataLemur solutions with \"Correct\" result | Assigned: Day 9, 70 min"
+                },
+                {
+                    "name": "2.10 DataLemur: Solve 2 Hard SQL problems + 1 LeetCode SQL50 advanced",
+                    "description": "URL: https://datalemur.com/questions?category=SQL&difficulty=Hard | Done When: 2 DL Hard \"Correct\" + 1 LC checkmark | Assigned: Day 10, 70 min"
+                },
+                {
+                    "name": "2.11 DataLemur: Solve 3 Hard SQL problems (CTE + window function required)",
+                    "description": "URL: https://datalemur.com/questions?category=SQL&difficulty=Hard | Done When: 3 DL Hard solutions submitted | Assigned: Day 11, 70 min"
+                },
+                {
+                    "name": "2.12 SQL Review: Solve 3 Hard DL problems at 15 min strict limit + re-solve hardest missed problem",
+                    "description": "URL: https://datalemur.com/questions?category=SQL&difficulty=Hard | Done When: 3 attempts recorded with times + 1 re-solve \"Correct\" | Assigned: Day 12, 70 min"
+                },
+                {
+                    "name": "2.13 SQL Speed Run: 3 DL Hard problems narrated out loud + 3 remaining LC SQL50",
+                    "description": "URL: https://datalemur.com/questions?category=SQL&difficulty=Hard and https://leetcode.com/studyplan/top-sql-50/ | Done When: 6 total attempts. Spoke reasoning aloud for DL problems. | Assigned: Day 13, 120 min"
+                },
+                {
+                    "name": "2.14 SQL Final Test: 4 random DL Hard problems, 15 min each, no hints. Record score X/4.",
+                    "description": "URL: https://datalemur.com/questions?category=SQL&difficulty=Hard | Done When: Score recorded. Target: 3/4 solved. LC SQL50 at 40+ complete. | Assigned: Day 14, 60 min"
+                }
+            ]
+        },
+        {
+            "name": "TASK 3: Complete NeetCode Arrays & Hashing + Two Pointers + Sliding Window (15+ problems)",
+            "description": "At least 15 NeetCode 150/250 problems solved across Arrays & Hashing (9 problems), Two Pointers (5 problems), and Sliding Window (3 problems). Can identify correct pattern within 2 minutes on unseen problem.",
+            "status": "to do",
+            "priority": 1,
+            "subtasks": [
+                {
+                    "name": "3.1 Watch NeetCode: Two Sum video. Solve Two Sum (LeetCode #1).",
+                    "description": "URL: Video: https://neetcode.io/solutions/two-sum \u2014 Problem: https://leetcode.com/problems/two-sum/ | Done When: Video watched + solution accepted on LeetCode. Can explain hashmap approach. | Assigned: Day 1, 55 min"
+                },
+                {
+                    "name": "3.2 Watch NeetCode: Valid Anagram + Contains Duplicate. Solve both.",
+                    "description": "URL: Video: https://neetcode.io/solutions/valid-anagram \u2014 Problems: https://leetcode.com/problems/contains-duplicate/ and https://leetcode.com/problems/valid-anagram/ | Done When: Both videos watched + both solutions accepted | Assigned: Day 2, 55 min"
+                },
+                {
+                    "name": "3.3 Watch NeetCode: Group Anagrams + Top K Frequent. Solve both.",
+                    "description": "URL: Video: https://neetcode.io/solutions/group-anagrams \u2014 Problems: https://leetcode.com/problems/group-anagrams/ and https://leetcode.com/problems/top-k-frequent-elements/ | Done When: Both videos watched + both solutions accepted or studied | Assigned: Day 3, 55 min"
+                },
+                {
+                    "name": "3.4 Watch NeetCode: Two Pointers \u2014 Valid Palindrome + Two Sum II. Solve both.",
+                    "description": "URL: Video: https://neetcode.io/solutions/valid-palindrome \u2014 Problems: https://leetcode.com/problems/valid-palindrome/ and https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | Done When: Both videos watched + both solutions accepted | Assigned: Day 4, 55 min"
+                },
+                {
+                    "name": "3.5 Watch NeetCode: 3Sum. Solve 3Sum + re-solve Two Sum from memory.",
+                    "description": "URL: Video: https://neetcode.io/solutions/three-sum \u2014 Problem: https://leetcode.com/problems/3sum/ \u2014 Re-solve: https://leetcode.com/problems/two-sum/ | Done When: 3Sum video watched + 3Sum accepted or studied + Two Sum re-solved in under 10 min | Assigned: Day 5, 55 min"
+                },
+                {
+                    "name": "3.6 Watch NeetCode: Sliding Window \u2014 Best Time to Buy/Sell Stock. Solve + solve Container With Most Water.",
+                    "description": "URL: Video: https://neetcode.io/solutions/best-time-to-buy-and-sell-stock \u2014 Problems: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ and https://leetcode.com/problems/container-with-most-water/ | Done When: Video watched + both solutions accepted or studied | Assigned: Day 6, 55 min"
+                },
+                {
+                    "name": "3.7 Watch NeetCode: Longest Substring Without Repeating Characters. Solve it + re-solve BTBSS from memory.",
+                    "description": "URL: Video: https://neetcode.io/solutions/longest-substring-without-repeating-characters \u2014 Problem: https://leetcode.com/problems/longest-substring-without-repeating-characters/ \u2014 Re-solve: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | Done When: Video watched + LSWRC accepted or studied + BTBSS re-solved in under 8 min | Assigned: Day 7, 55 min"
+                },
+                {
+                    "name": "3.8 Watch NeetCode: Product of Array Except Self. Solve it + solve Maximum Subarray (Kadane's).",
+                    "description": "URL: Video: https://neetcode.io/solutions/products-of-array-discluding-self \u2014 Problems: https://leetcode.com/problems/product-of-array-except-self/ and https://leetcode.com/problems/maximum-subarray/ | Done When: Video watched + both solutions accepted or studied | Assigned: Day 8, 55 min"
+                },
+                {
+                    "name": "3.9 Watch NeetCode: Binary Search. Solve Binary Search + Search Insert Position + Encode/Decode Strings.",
+                    "description": "URL: Video: https://neetcode.io/solutions/binary-search \u2014 Problems: https://leetcode.com/problems/binary-search/ and https://leetcode.com/problems/search-insert-position/ and https://neetcode.io/problems/string-encode-and-decode | Done When: Video watched + all 3 solved | Assigned: Day 9, 55 min"
+                },
+                {
+                    "name": "3.10 Watch NeetCode: Merge Intervals. Solve Merge Intervals + re-solve 3Sum from memory.",
+                    "description": "URL: Video: https://neetcode.io/solutions/merge-intervals \u2014 Problem: https://leetcode.com/problems/merge-intervals/ \u2014 Re-solve: https://leetcode.com/problems/3sum/ | Done When: Video watched + Merge Intervals accepted or studied + 3Sum re-solved under 20 min | Assigned: Day 10, 55 min"
+                },
+                {
+                    "name": "3.11 Watch NeetCode: Maximum Product Subarray. Solve it + solve Longest Consecutive Sequence.",
+                    "description": "URL: Video: https://neetcode.io/solutions/maximum-product-subarray \u2014 Problems: https://leetcode.com/problems/maximum-product-subarray/ and https://leetcode.com/problems/longest-consecutive-sequence/ | Done When: Video watched + both accepted or studied | Assigned: Day 11, 55 min"
+                },
+                {
+                    "name": "3.12 Review: Read top 3 LeetCode solutions for your weakest problem. Re-solve Product of Array from memory.",
+                    "description": "URL: Go to your weakest problem's Solutions tab on LeetCode \u2014 Re-solve: https://leetcode.com/problems/product-of-array-except-self/ | Done When: Read 3 solutions + can explain tradeoffs between them + POAES re-solved under 15 min | Assigned: Day 12, 55 min"
+                },
+                {
+                    "name": "3.13 Solve 3 unseen NeetCode array/two-pointer mediums \u2014 no tags visible, 20 min each",
+                    "description": "URL: https://neetcode.io/practice/practice/neetcode250 (Arrays & Hashing or Two Pointers sections, pick unsolved) | Done When: 3 attempts completed. For each: wrote pattern name before coding. | Assigned: Day 13, 55 min"
+                },
+                {
+                    "name": "3.14 DSA Final Test: 3 unseen array mediums, 20 min strict each, no hints. Record score X/3.",
+                    "description": "URL: https://neetcode.io/practice/practice/neetcode250 (pick 3 unsolved from Arrays, Two Pointers, or Sliding Window) | Done When: Score recorded. Target: 2/3 clean solves. | Assigned: Day 14, 55 min"
+                }
+            ]
+        },
+        {
+            "name": "TASK 4: Complete 7 Data Engineering System Designs with Self-Graded Rubric",
+            "description": "7 DE system designs completed on paper/whiteboard, each self-graded on 6-point rubric (Requirements, Architecture, Tradeoffs, Failure Modes, Monitoring, Scale). Week 2 average score higher than Week 1.",
+            "status": "to do",
+            "priority": 1,
+            "subtasks": [
+                {
+                    "name": "4.1 Learn: Watch ByteByteGo \"How a Data Pipeline Works.\" Design: Batch pipeline for daily e-commerce sales.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"data pipeline\") | Done When: 3 notes written from video + design drawn with 5+ components + 6 rubric scores recorded | Assigned: Day 1, 70 min"
+                },
+                {
+                    "name": "4.2 Learn: Watch ByteByteGo \"Batch vs Stream Processing.\" Design: Streaming event pipeline for clickstream data.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"batch vs stream processing\") | Done When: 3 notes from video + design includes Kafka + mentions exactly-once vs at-least-once + 6 scores recorded | Assigned: Day 3, 70 min"
+                },
+                {
+                    "name": "4.3 Learn: Watch ByteByteGo \"Data Warehouse vs Data Lake vs Lakehouse.\" Design: Data warehouse for e-commerce.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"data warehouse data lake lakehouse\") | Done When: 3 notes + design includes star schema with fact + dimension tables + partitioning strategy + 6 scores | Assigned: Day 5, 70 min"
+                },
+                {
+                    "name": "4.4 Learn: Watch ByteByteGo \"Message Queues.\" Design: CDC pipeline syncing production DB to analytics.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"message queue Kafka\") | Done When: 3 notes + design includes Debezium/CDC tool \u2192 Kafka \u2192 consumer \u2192 warehouse + schema evolution discussed + 6 scores | Assigned: Day 7, 70 min"
+                },
+                {
+                    "name": "4.5 Learn: Watch ByteByteGo \"API Design.\" Design: Multi-source data lake ingestion system.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"API design best practices\") | Done When: 3 notes + design shows multiple sources \u2192 ingestion \u2192 raw \u2192 curated \u2192 serving + schema-on-read discussed + 6 scores | Assigned: Day 9, 70 min"
+                },
+                {
+                    "name": "4.6 Learn: Watch ByteByteGo \"Monitoring and Observability.\" Design: Real-time fraud detection pipeline.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"monitoring observability\") | Done When: 3 notes + design includes streaming processor + ML scoring + alerting + data lake + latency discussed + 6 scores | Assigned: Day 11, 70 min"
+                },
+                {
+                    "name": "4.7 Learn: Watch ByteByteGo \"Schema Evolution.\" Design: Re-do your weakest DE design from scratch.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"schema evolution\") | Done When: 3 notes + full re-design + 6 scores + score compared to original attempt | Assigned: Day 13, 70 min"
+                }
+            ]
+        },
+        {
+            "name": "TASK 5: Complete 5 Backend Engineering System Designs with Self-Graded Rubric",
+            "description": "5 BE system designs completed on paper/whiteboard, each self-graded on 6-point rubric. Week 2 average score higher than Week 1.",
+            "status": "to do",
+            "priority": 1,
+            "subtasks": [
+                {
+                    "name": "5.1 Learn: Watch ByteByteGo \"Load Balancers.\" Design: URL shortener service.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"load balancer explained\") | Done When: 3 notes + design includes API + hash function + DB + redirect flow + 2 tradeoffs + 6 scores | Assigned: Day 2, 70 min"
+                },
+                {
+                    "name": "5.2 Learn: Watch ByteByteGo \"Caching Strategies.\" Design: Rate limiter service.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"caching strategies Redis\") | Done When: 3 notes + design includes token bucket or sliding window + Redis + distributed considerations + 6 scores | Assigned: Day 4, 70 min"
+                },
+                {
+                    "name": "5.3 Learn: Watch ByteByteGo \"SQL vs NoSQL.\" Design: Notification system (push, email, SMS).",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"SQL vs NoSQL\") | Done When: 3 notes + design includes queue per channel + worker pools + retry logic + user preferences + 6 scores | Assigned: Day 6, 70 min"
+                },
+                {
+                    "name": "5.4 Learn: Watch ByteByteGo \"CAP Theorem.\" Design: Real-time chat with read receipts.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"CAP theorem\") | Done When: 3 notes + design includes WebSocket + message store + presence service + consistency model + 6 scores | Assigned: Day 8, 70 min"
+                },
+                {
+                    "name": "5.5 Learn: Watch ByteByteGo \"Data Partitioning and Sharding.\" Design: Payment processing service.",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"database sharding partitioning\") | Done When: 3 notes + design includes idempotency + gateway integration + transaction DB + async receipts + retry + 6 scores | Assigned: Day 10, 70 min"
+                }
+            ]
+        },
+        {
+            "name": "TASK 6: Complete 2 Cross-Role System Designs (DE + BE Combined)",
+            "description": "2 cross-role designs that include BOTH a DE pipeline component AND a BE serving component in the same architecture. Self-graded.",
+            "status": "to do",
+            "priority": 1,
+            "subtasks": [
+                {
+                    "name": "6.1 Learn: Watch ByteByteGo \"Horizontal Scaling.\" Design: Real-time analytics dashboard (DE pipeline + BE serving).",
+                    "description": "URL: Video: https://www.youtube.com/c/ByteByteGo (search \"horizontal scaling\") | Done When: 3 notes + design shows BOTH the DE pipeline (ingestion \u2192 processing \u2192 storage) AND the BE layer (API \u2192 cache \u2192 frontend) + 6 scores | Assigned: Day 12, 70 min"
+                },
+                {
+                    "name": "6.2 Design: Search system with indexing pipeline + query API. Final self-grade.",
+                    "description": "URL: No video \u2014 apply everything learned | Done When: Design shows data source \u2192 indexer \u2192 search index \u2192 query API \u2192 results + relevance tradeoffs + 6 scores | Assigned: Day 13, 50 min"
+                }
+            ]
+        },
+        {
+            "name": "TASK 7: Final System Design Test \u2014 Redo Weakest DE + Weakest BE",
+            "description": "2 final designs (1 DE, 1 BE) completed under test conditions. Both score average 4/5 on rubric.",
+            "status": "to do",
+            "priority": 1,
+            "subtasks": [
+                {
+                    "name": "7.1 Re-design your weakest BE system from scratch, 30 min, no notes. Self-grade.",
+                    "description": "URL: No URL \u2014 paper/whiteboard | Done When: Complete design + 6 rubric scores recorded + target: average 4/5 | Assigned: Day 14, 35 min"
+                },
+                {
+                    "name": "7.2 Compare all 14 system design rubric scores. Record Week 1 avg vs Week 2 avg.",
+                    "description": "URL: Review all rubric sheets | Done When: Two averages calculated. Week 2 > Week 1 confirmed. | Assigned: Day 14, 15 min"
+                }
+            ]
+        }
+    ]
+}

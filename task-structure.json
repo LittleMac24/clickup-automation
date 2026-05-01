@@ -1,0 +1,19 @@
+{
+    "space": "Name of the Space",
+    "folder": "Name of the Folder",
+    "list": "Name of the List where tasks will live",
+    "tasks": [
+      {
+        "name": "The Task Title (e.g., TASK 1: ...)",
+        "description": "The Measurable Outcome or overall goal",
+        "status": "to do",
+        "priority": 1, 
+        "subtasks": [
+          {
+            "name": "Subtask Title (e.g., 1.1 ...)",
+            "description": "URL, 'Done When' criteria, and assigned Day/Time"
+          }
+        ]
+      }
+    ]
+  }
